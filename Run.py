@@ -2,5 +2,5 @@ import time
 
 while True:
   print("KENZY")
-  time.slepp(0.5)
+  time.sleep(0.5)
   
